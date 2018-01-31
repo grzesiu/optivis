@@ -1,4 +1,4 @@
-Notebook demonstrating selected optimization algorithms:
+A jupyter notebook demonstrating selected optimization algorithms:
 - Greedy
 - Steepest
 - Simulated Annealing
